@@ -1,0 +1,14 @@
+node_modules/
+build/
+openzeppelin_flat_file/
+.env
+.idea
+package-lock.json
+
+# Config files
+config/local.json
+config/development.json
+config/staging.json
+config/production.json
+.DS_Store
+package-lock.json
